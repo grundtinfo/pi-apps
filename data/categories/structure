@@ -17,7 +17,6 @@ Conky|Eyecandy
 Cool Retro Term|Eyecandy
 Cura|Editors
 Discord|Internet
-Doom 3|Games
 Eagle CAD|Editors
 eDEX-UI|Eyecandy
 Email Checker|Internet
@@ -54,7 +53,6 @@ Steam|Games
 Sublime Text|Editors
 TBOPlayer|Tools
 TeamViewer Host|Internet
-template|hidden
 Timeshift|Tools
 tldr|Tools
 Tor Browser|Internet
@@ -72,4 +70,6 @@ Wine (x86)|Tools
 WPS Office|Editors
 YouTubuddy|Internet
 Zoom|Internet
+template|hidden
 Minecraft Pi (Modded)|Games
+Doom 3|Games
